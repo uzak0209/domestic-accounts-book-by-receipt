@@ -23,7 +23,7 @@ while True:
         save_photo(frame)
         trimming_app.trimming("camera.jpg")#これによってtrimmingappに移行
         break
-'''----------------ここからインターフェイス--------------------'''
+
 import sql
 import userinterface
 
